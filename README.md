@@ -11,3 +11,5 @@ A clone of the productivity chrome app Momentum on Vanilla JS
 - [x] Weather
 - [x] Daily Photo
 - [x] Offline Support
+
+![Logo](bg.png)
